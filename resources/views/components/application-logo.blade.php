@@ -1,0 +1,1 @@
+<img src="{{ asset('image/angano2.png') }}" alt="Logo de mon site">
